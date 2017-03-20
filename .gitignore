@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 gdzie-mieszkaja-STWURy.Rproj
+.httr-oauth
+token_file
+login.R
