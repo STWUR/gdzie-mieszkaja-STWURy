@@ -1,0 +1,200 @@
+"date","country","region","city","sessions","users","newUsers"
+"20170117","Netherlands","South Holland","Rotterdam",1,1,1
+"20170117","Norway","Oslo","Oslo",1,1,1
+"20170117","Poland","Lodz Voivodeship","Belchatow",1,1,1
+"20170117","Poland","Lodz Voivodeship","Lodz",2,2,2
+"20170117","Poland","Lower Silesian Voivodeship","Jelenia Gora",1,1,1
+"20170117","Poland","Lower Silesian Voivodeship","Wroclaw",24,20,19
+"20170117","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170117","Poland","Pomeranian Voivodeship","Gdansk",1,1,1
+"20170117","Switzerland","Zurich","Zurich",1,1,1
+"20170117","United States","California","Palo Alto",1,1,1
+"20170118","Germany","Berlin","Berlin",1,1,1
+"20170118","Poland","Greater Poland Voivodeship","Poznan",1,1,1
+"20170118","Poland","Lesser Poland Voivodeship","Krakow",1,1,1
+"20170118","Poland","Lodz Voivodeship","Lodz",1,1,0
+"20170118","Poland","Lower Silesian Voivodeship","Strzelin",1,1,1
+"20170118","Poland","Lower Silesian Voivodeship","Wroclaw",55,47,43
+"20170118","Poland","Masovian Voivodeship","Warsaw",8,5,3
+"20170118","United States","California","Palo Alto",2,1,0
+"20170119","Finland","Southern Finland","Espoo",1,1,1
+"20170119","Germany","(not set)","(not set)",1,1,1
+"20170119","Ireland","County Dublin","Dublin",1,1,1
+"20170119","Italy","Trentino-Alto Adige/South Tyrol","(not set)",1,1,1
+"20170119","Poland","Lesser Poland Voivodeship","Krakow",3,3,3
+"20170119","Poland","Lower Silesian Voivodeship","Legnica",1,1,1
+"20170119","Poland","Lower Silesian Voivodeship","Wroclaw",28,28,27
+"20170119","Poland","Masovian Voivodeship","Warsaw",14,12,9
+"20170119","Poland","Silesian Voivodeship","Katowice",1,1,1
+"20170119","United States","California","Palo Alto",1,1,1
+"20170120","Germany","(not set)","(not set)",1,1,1
+"20170120","Germany","Berlin","Berlin",1,1,0
+"20170120","Poland","Greater Poland Voivodeship","Poznan",1,1,1
+"20170120","Poland","Lower Silesian Voivodeship","Wroclaw",14,14,13
+"20170120","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170120","Poland","Silesian Voivodeship","Bedzin",1,1,1
+"20170120","Sweden","Vastra Gotaland County","Gothenburg",1,1,1
+"20170120","United States","California","San Francisco",1,1,1
+"20170121","Poland","Greater Poland Voivodeship","Poznan",1,1,0
+"20170121","Poland","Lower Silesian Voivodeship","Wroclaw",8,8,7
+"20170121","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170122","Poland","Lower Silesian Voivodeship","Wroclaw",14,10,8
+"20170122","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170122","United States","Massachusetts","Norwood",1,1,1
+"20170123","Poland","Lower Silesian Voivodeship","Wroclaw",6,6,5
+"20170123","United States","California","San Francisco",1,1,1
+"20170124","Germany","(not set)","(not set)",1,1,1
+"20170124","Netherlands","North Holland","Amstelveen",1,1,0
+"20170124","Poland","Lower Silesian Voivodeship","Wroclaw",15,12,8
+"20170124","Poland","Masovian Voivodeship","Radom",1,1,0
+"20170124","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170125","Germany","(not set)","(not set)",2,2,1
+"20170125","Germany","Baden-Wurttemberg","Heidelberg",1,1,1
+"20170125","Poland","Lower Silesian Voivodeship","Wroclaw",51,36,21
+"20170125","Poland","Masovian Voivodeship","Warsaw",5,5,4
+"20170125","Spain","Catalonia","Sant Cugat del Valles",1,1,0
+"20170125","United States","(not set)","(not set)",1,1,1
+"20170126","Germany","(not set)","(not set)",1,1,0
+"20170126","Norway","Oslo","Oslo",1,1,0
+"20170126","Poland","Greater Poland Voivodeship","Poznan",4,2,1
+"20170126","Poland","Lower Silesian Voivodeship","Wroclaw",29,22,9
+"20170126","Poland","Masovian Voivodeship","Radom",1,1,1
+"20170126","Poland","Masovian Voivodeship","Warsaw",6,4,3
+"20170126","Spain","Catalonia","Sant Cugat del Valles",1,1,0
+"20170127","Germany","(not set)","(not set)",2,2,1
+"20170127","Poland","Lesser Poland Voivodeship","Krakow",1,1,1
+"20170127","Poland","Lower Silesian Voivodeship","Wroclaw",4,2,0
+"20170127","Poland","Masovian Voivodeship","Warsaw",2,2,1
+"20170128","Germany","Berlin","Berlin",1,1,0
+"20170128","Poland","Lesser Poland Voivodeship","Krakow",1,1,1
+"20170128","Poland","Lower Silesian Voivodeship","Wroclaw",8,7,2
+"20170128","Poland","Masovian Voivodeship","Warsaw",3,3,3
+"20170129","Poland","Lesser Poland Voivodeship","Krakow",1,1,0
+"20170129","Poland","Lower Silesian Voivodeship","Wroclaw",3,3,0
+"20170129","Poland","Masovian Voivodeship","Warsaw",2,2,1
+"20170130","Denmark","Capital Region of Denmark","Lyngby",1,1,0
+"20170130","Poland","Lower Silesian Voivodeship","Wroclaw",2,2,0
+"20170131","Iceland","Capital Region","Reykjavik",1,1,1
+"20170131","Poland","Lower Silesian Voivodeship","Wroclaw",2,2,0
+"20170131","Spain","Catalonia","Sant Cugat del Valles",2,1,0
+"20170201","Germany","Berlin","Berlin",1,1,0
+"20170201","Poland","Lower Silesian Voivodeship","Wroclaw",7,5,1
+"20170201","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170202","Poland","Lower Silesian Voivodeship","Wroclaw",4,3,0
+"20170203","Poland","Greater Poland Voivodeship","Poznan",1,1,1
+"20170203","Poland","Lower Silesian Voivodeship","Wroclaw",4,3,0
+"20170203","Spain","Catalonia","Sant Cugat del Valles",2,1,0
+"20170204","Poland","Lower Silesian Voivodeship","Wroclaw",1,1,0
+"20170205","Poland","Lower Silesian Voivodeship","Wroclaw",3,1,0
+"20170205","Poland","Masovian Voivodeship","Warsaw",1,1,0
+"20170206","Poland","Lower Silesian Voivodeship","Polkowice",1,1,1
+"20170206","Poland","Lower Silesian Voivodeship","Wroclaw",3,1,0
+"20170206","United States","(not set)","(not set)",1,1,0
+"20170207","Poland","Lower Silesian Voivodeship","Wroclaw",1,1,0
+"20170207","United States","(not set)","(not set)",1,1,0
+"20170208","Finland","Southern Finland","Espoo",1,1,1
+"20170208","Poland","Lower Silesian Voivodeship","Wroclaw",4,3,1
+"20170208","United States","(not set)","(not set)",1,1,0
+"20170209","United States","(not set)","(not set)",2,1,0
+"20170210","Denmark","Capital Region of Denmark","Lyngby",9,6,4
+"20170210","Poland","Greater Poland Voivodeship","Poznan",1,1,1
+"20170210","Poland","Lesser Poland Voivodeship","Krakow",1,1,0
+"20170210","Poland","Lodz Voivodeship","Belchatow",1,1,0
+"20170210","Poland","Lower Silesian Voivodeship","Wroclaw",5,3,1
+"20170210","Poland","Masovian Voivodeship","Warsaw",3,3,3
+"20170210","Slovenia","Ljubljana","Ljubljana",1,1,1
+"20170210","United States","(not set)","(not set)",5,1,0
+"20170211","Denmark","Capital Region of Denmark","Lyngby",3,3,1
+"20170211","Poland","Lesser Poland Voivodeship","Krakow",1,1,0
+"20170211","Poland","Lower Silesian Voivodeship","Wroclaw",2,2,2
+"20170211","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170212","Denmark","Capital Region of Denmark","Lyngby",1,1,1
+"20170212","Poland","Lower Silesian Voivodeship","Wroclaw",3,3,2
+"20170213","Denmark","Capital Region of Denmark","Lyngby",1,1,0
+"20170213","Germany","(not set)","(not set)",2,1,0
+"20170213","Poland","Lower Silesian Voivodeship","Wroclaw",10,9,6
+"20170214","Denmark","Capital Region of Denmark","Lyngby",3,2,0
+"20170214","Poland","Lower Silesian Voivodeship","Wroclaw",3,3,2
+"20170214","Poland","Warmian-Masurian Voivodeship","Szczytno",1,1,1
+"20170216","Denmark","Capital Region of Denmark","Lyngby",1,1,0
+"20170216","Poland","Lower Silesian Voivodeship","Wroclaw",2,2,2
+"20170216","United States","(not set)","(not set)",2,1,0
+"20170217","Denmark","Capital Region of Denmark","Lyngby",3,2,2
+"20170217","Poland","Lower Silesian Voivodeship","Wroclaw",3,3,3
+"20170217","United Kingdom","England","London",2,1,1
+"20170219","Denmark","Capital Region of Denmark","Lyngby",6,4,1
+"20170219","Poland","Lodz Voivodeship","Lodz",2,1,1
+"20170220","Denmark","Capital Region of Denmark","Lyngby",3,3,1
+"20170220","Germany","Berlin","Berlin",1,1,1
+"20170220","United States","Georgia","Macon",1,1,1
+"20170221","Denmark","Capital Region of Denmark","Lyngby",4,3,0
+"20170221","Poland","Lower Silesian Voivodeship","Wroclaw",1,1,1
+"20170221","Poland","Masovian Voivodeship","Warsaw",4,4,4
+"20170222","Denmark","Capital Region of Denmark","Lyngby",1,1,1
+"20170222","Poland","Lower Silesian Voivodeship","Karpacz",2,1,1
+"20170223","Denmark","Capital Region of Denmark","Lyngby",1,1,0
+"20170223","Poland","Lower Silesian Voivodeship","Wroclaw",1,1,1
+"20170223","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170224","Denmark","Capital Region of Denmark","Lyngby",2,1,0
+"20170224","Poland","Lodz Voivodeship","Lodz",1,1,1
+"20170225","Poland","Lower Silesian Voivodeship","Wroclaw",1,1,1
+"20170226","Poland","Lower Silesian Voivodeship","Wroclaw",8,7,7
+"20170226","Poland","Silesian Voivodeship","Katowice",1,1,1
+"20170226","United States","California","San Francisco",1,1,1
+"20170226","United States","North Carolina","(not set)",1,1,1
+"20170227","Poland","Lesser Poland Voivodeship","Krakow",1,1,0
+"20170227","Poland","Lower Silesian Voivodeship","Wroclaw",10,10,9
+"20170227","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170228","Poland","Lower Silesian Voivodeship","Wroclaw",8,7,5
+"20170228","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170228","United Kingdom","England","London",1,1,0
+"20170301","Poland","Greater Poland Voivodeship","Poznan",2,2,2
+"20170301","Poland","Lesser Poland Voivodeship","Krakow",4,3,3
+"20170301","Poland","Lower Silesian Voivodeship","Wroclaw",37,28,19
+"20170301","Poland","Masovian Voivodeship","Warsaw",7,6,4
+"20170301","United States","(not set)","(not set)",1,1,1
+"20170302","Poland","Lesser Poland Voivodeship","Krakow",1,1,1
+"20170302","Poland","Lower Silesian Voivodeship","Wroclaw",18,13,5
+"20170302","Poland","Masovian Voivodeship","Warsaw",1,1,0
+"20170302","Poland","Silesian Voivodeship","Czestochowa",1,1,0
+"20170302","Spain","Catalonia","Sant Cugat del Valles",1,1,0
+"20170303","Poland","Lower Silesian Voivodeship","Wroclaw",13,11,5
+"20170303","Poland","Masovian Voivodeship","Warsaw",1,1,1
+"20170303","Spain","Catalonia","Sant Cugat del Valles",2,1,0
+"20170304","Poland","Lower Silesian Voivodeship","Wroclaw",4,4,1
+"20170304","Poland","Silesian Voivodeship","Ruda Slaska",1,1,1
+"20170305","Poland","Lower Silesian Voivodeship","Strzegom",1,1,0
+"20170305","Poland","Lower Silesian Voivodeship","Wroclaw",1,1,0
+"20170306","Poland","Lower Silesian Voivodeship","Strzegom",1,1,0
+"20170306","Poland","Lower Silesian Voivodeship","Wroclaw",4,4,3
+"20170306","Poland","Silesian Voivodeship","Czestochowa",1,1,0
+"20170306","Spain","Catalonia","Sant Cugat del Valles",3,1,0
+"20170307","Poland","Lower Silesian Voivodeship","Strzegom",1,1,0
+"20170307","Poland","Lower Silesian Voivodeship","Wroclaw",8,8,5
+"20170307","Spain","Catalonia","Sant Cugat del Valles",1,1,0
+"20170307","United States","(not set)","(not set)",1,1,0
+"20170308","Germany","Berlin","Berlin",2,2,0
+"20170308","Poland","Lower Silesian Voivodeship","Wroclaw",3,2,0
+"20170308","Spain","Catalonia","Sant Cugat del Valles",2,1,0
+"20170309","Poland","Lower Silesian Voivodeship","Wroclaw",3,3,3
+"20170310","Poland","Masovian Voivodeship","Warsaw",2,2,0
+"20170311","Germany","Berlin","Berlin",2,2,0
+"20170311","Poland","Lower Silesian Voivodeship","Wroclaw",1,1,0
+"20170311","Poland","Masovian Voivodeship","Warsaw",1,1,0
+"20170312","Germany","Berlin","Berlin",2,2,0
+"20170312","Poland","Lower Silesian Voivodeship","Trzebnica",2,2,1
+"20170312","Poland","Lower Silesian Voivodeship","Wroclaw",12,7,5
+"20170313","Poland","Lower Silesian Voivodeship","Wroclaw",2,2,1
+"20170313","Poland","Masovian Voivodeship","Warsaw",2,2,2
+"20170314","Poland","Lower Silesian Voivodeship","Wroclaw",2,2,2
+"20170315","Germany","Berlin","Berlin",2,2,2
+"20170315","Poland","Lower Silesian Voivodeship","Wroclaw",6,6,4
+"20170315","Poland","Masovian Voivodeship","Warsaw",2,2,2
+"20170316","Poland","Lesser Poland Voivodeship","Krakow",2,2,2
+"20170316","Poland","Lower Silesian Voivodeship","Wroclaw",45,29,14
+"20170317","Poland","Greater Poland Voivodeship","Poznan",1,1,1
+"20170317","Poland","Lower Silesian Voivodeship","Legnica",2,2,2
+"20170317","Poland","Lower Silesian Voivodeship","Wroclaw",6,6,3
+"20170317","Poland","Masovian Voivodeship","Warsaw",2,2,2
+"20170317","Poland","Silesian Voivodeship","Katowice",1,1,1
+"20170318","Poland","Lower Silesian Voivodeship","Wroclaw",1,1,1
